@@ -1,3 +1,0 @@
-Name: Harshit Varshney
-Skills: Python, HTML, CSS, JS, Next.js, express.js
-Email: hitman.harsh21@gmail.com
